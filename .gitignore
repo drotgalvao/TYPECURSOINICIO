@@ -1,0 +1,22 @@
+# Módulos Node.js
+node_modules/
+
+# Saída da compilação TypeScript
+dist/
+
+# Arquivos de log
+logs/
+
+# Arquivos de ambiente locais (não devem ser rastreados no repositório)
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Arquivos de dependências Yarn (se você estiver usando Yarn)
+yarn-error.log
+.yarn-integrity
+
+# Arquivos de dependências NPM (se você estiver usando NPM)
+npm-debug.log
